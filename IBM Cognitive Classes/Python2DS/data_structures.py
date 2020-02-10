@@ -24,3 +24,4 @@ Dictionary = { "Queen": 1973, "Queen II": 1974, "Sheer Heart Attack": 1974, "A N
 if ("Queen II" in Dictionary): 
     print (Dictionary["Queen II"])
 
+print (enumerate(list_s))
